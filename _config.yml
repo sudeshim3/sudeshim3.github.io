@@ -24,8 +24,8 @@ linkedin_username: sudesh-sakthivel-0a3965122
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm a android developer. I have experience of working on native apps for 3+ years in fast-paced startups. My key area of focus are writing clean, performant and testable code while ensuring
-  to deliver great user experiance. Currently I am sharpening my skills on android devops and test automation.<br/><br/><br/> 
+  Hi, I’m an android developer. I have experience of working on native apps for 3+ years in fast-paced startups. My key area of focus is writing clean, performant and testable code while ensuring to deliver a pleasant user experience.
+  to deliver great user experiance. Currently, I am sharpening my skills on android DevOps and test automation.<br/><br/><br/> 
   <span style="font-size:150%">Skills</span> <br/>
   -  <mark>Architecture</mark>: (MVP, MVVM). Modular code with Test-driven development. <br/>
   -  <mark>Testing</mark>: Unit testing with Junit and Mockito and Instrumentation testing with Espresso. <br/>

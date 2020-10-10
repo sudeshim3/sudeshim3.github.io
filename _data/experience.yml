@@ -1,9 +1,31 @@
 - layout: left
-  company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
-  quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  company: Smallcase
+  link: tickertape.in
+  job_title: Mobile Engineer (Android)
+  dates: July 2019 - Present
+  quote: > 
+    Stock analysis platform to track market sentiment, analyze and enhance your portfolio.
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    -  Implemented WebSocket for live market data and optimized the SocketIO library for high-frequency updates.
+
+    -  Implemented multiple modules within Tickertape. Razorpay payment integration, Watchlist(stock tracking), Beat the street(Gamification), Transactions( purchase stocks via broker) etc.
+
+- layout: left
+  company: Hubbler
+  link: hubbler.app
+  job_title: Software Engineer (Android)
+  dates: November 2017 - June 2019 (1y 8m)
+  quote: > 
+    A ​SaaS-based Enterprise Business platform.
+  description: | # this will include new lines to allow paragraphs
+    -  Implemented Social feeds, MIS(Management Info System) Dashboard, Leave App (part of HR Management suite) in native android application.
+
+    -  Created custom views for dashboard. Built video player for feeds with streaming, caching and progressive upload. All the above features were implemented using various API(mentioned in android skillset) provided by android.
+
+- layout: left
+  company: Superbolter Technologies
+  link: alpha.superbolter
+  job_title: Software Engineer (Game developer)
+  dates: July 2017 - October 2017 (4m)
+  description: | # this will include new lines to allow paragraphs
+    -  Worked on creating a 3D interior design software using Unity(Game engine) and Blender(3D modelling software).

@@ -5,10 +5,12 @@
   dates: July 2019 - Present
   quote: > 
     Stock analysis platform to track market sentiment, analyze and enhance your portfolio.
-  description: | # this will include new lines to allow paragraphs
-    -  Implemented WebSocket for live market data and optimized the SocketIO library for high-frequency updates.
-
-    -  Implemented multiple modules within Tickertape. Razorpay payment integration, Watchlist(stock tracking), Beat the street(Gamification), Transactions (add stocks to basket and purchase via brokers) etc.
+  description: |
+    -  Ensured that the app is stable and performant which resulted in a consistent rating of 4.4+ (400k+ active users) since the first release.
+    -  Extended the features of socket(Socket.IO) library to support higher throughput and prevent concurrency during market hours. Also, added optimisation for low-end devices.
+    -  Developed core features of the app like watchlist, stock transactions in accordance with modular methodology and followed MVVM architecture. I Also Ensured that the integration with other app features and stock broker is seamless.
+    -  Developed Beat the street (Gamification): From the development perspective this module was data-heavy on UI which required multiple nested layers. Moreover the screen states are dynamic and adapts based on the market hours.
+    -  Other small features includes Financial tables for equity, dynamic Search for security instrument(stock, Mutual Funds) and Payment integration with Razorpay.
 
 - layout: left
   company: Hubbler
@@ -17,15 +19,16 @@
   dates: November 2017 - June 2019 (1y 8m)
   quote: > 
     A ​SaaS-based Enterprise Business platform.
-  description: | # this will include new lines to allow paragraphs
+  description: |
     -  Implemented Social feeds, MIS(Management Info System) Dashboard, Leave App (part of HR Management suite) in native android application.
-
-    -  Created custom views for dashboard. Built video player for feeds with streaming, caching and progressive upload. All the above features were implemented using various API(mentioned in android skillset) provided by android.
+    -  Refactored legacy modules and migrated the codebase from java to kotlin. Followed MVVM architecture and used architecture components from jetpack suite.
+    -  Created customviews and extended features of a charting library for analytics dashboard(mpAndroidChart).
+    -  Built video player for social feeds wich supports streaming, caching, compression and progressive upload. Used exoplayer, amazon s3 sdk and ffmpeg.
 
 - layout: left
   company: Superbolter Technologies
   link: alpha.superbolter
   job_title: Software Engineer (Game developer)
   dates: July 2017 - October 2017 (4m)
-  description: | # this will include new lines to allow paragraphs
+  description: |
     -  Worked on creating a 3D interior design software using Unity(Game engine) and Blender(3D modelling software).
